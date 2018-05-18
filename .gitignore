@@ -365,3 +365,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Trash
+*.o
